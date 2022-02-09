@@ -1,0 +1,17 @@
+img{
+    width:100px;
+    height:100px;
+}
+p img {
+width:100px;
+margin: 15px;
+}
+.cat{
+    border:10px solid lightblue;
+}
+h3 a{
+    text-decoration:none;
+    border:1px solid black;
+    color:black;
+    border-radius:15px;
+}
